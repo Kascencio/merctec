@@ -27,6 +27,7 @@ Nicho de mercado:
 - Login como vendedor o comprador 
   * VENDEDOR: Ingreso de datos como hora de venta y hora de no venta, creación de publicaciones con fotos y descripciones con precios, recibir comentarios y valoraciones del producto o publicacion. 
   * COMPRADOR: Podra comentar y valorar los productos, mandar a pedir como tambien cantidad por comprar, ingresar ubicacion actual.
+    
 **Escalabilidad** 
 - Lograr implementar un feed de publicaciones de comida, una mayor velocidad y lograr agrandar mas la variedad de lugares.
 **Costos** 
